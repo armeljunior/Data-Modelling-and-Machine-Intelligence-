@@ -21,6 +21,6 @@ Examples of methodologies to fix data:
 - - Most Frequent values
 - - Exploring Correlations
 - -	Similarities between Cases
-•	Deleting the whole section or column of missing data
+•	Deleting the whole section or column of missing dataa
 •	Using mean, median mode to average the results and work out similarities 
 ![image](https://user-images.githubusercontent.com/90009399/200144142-bb46cf36-8a0a-4313-9969-6384791f5bbe.png)
